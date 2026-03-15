@@ -1,3 +1,7 @@
+# Nama: Irfan Jayadi
+# NIM: F1D02310011
+# Kelas: D
+
 import sys
 from PySide6.QtWidgets import (
     QApplication, QWidget, QLabel, QPushButton, QLineEdit, QVBoxLayout, QHBoxLayout, QMessageBox
